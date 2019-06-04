@@ -1,10 +1,10 @@
-## Grad_CAM
-使用Grad_CAM技術判斷CNN最後一層輸出的對圖像提取的特征是哪個位置
+## Grad_CAM （CNN_visualization)
+複雜的CNN中使用Grad_CAM技術將CNN最後一層output對圖像提取的特征進行可視化
 
-Framework:
-* Keras
+Enviroment
 
-model:
+Python 3.7
+Keras
 * Pretrained_VGG16
 
 參考論文：
