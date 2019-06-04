@@ -3,13 +3,10 @@
 
 
 Original input
-![image](gorilla.jpg = 100x)
+![image](gorilla.jpg)
 
-
-
-
-
-
+將heating map疊加原圖效果
+![image](gorilla_heatmap.jpg)
 
 
 
