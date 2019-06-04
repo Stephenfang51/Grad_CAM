@@ -3,7 +3,7 @@
 
 
 Original input
-![image](gorilla.jpg | width=100)
+![image](gorilla.jpg = 100x)
 
 
 
