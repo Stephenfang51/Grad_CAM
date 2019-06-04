@@ -3,6 +3,9 @@
 
 Framework:
 * Keras
-model:
-<p>Pretrain VGG16 for Imagenet</p>
 
+model:
+* Pretrained_VGG16
+
+參考論文：
+https://arxiv.org/pdf/1610.02391v1.pdf
