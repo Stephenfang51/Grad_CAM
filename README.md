@@ -3,9 +3,7 @@
 
 
 Original input
-https://github.com/Stephenfang51/Grad_CAM/blob/master/gorilla.jpg?raw=true
-
-![image](gorilla.jpg)
+![image](gorilla.jpg | width=100)
 
 
 
