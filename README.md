@@ -7,7 +7,7 @@
 ![image](gorilla.jpg)
 
 ### 將heating map疊加原圖效果
-
+可以清楚看見網絡是經由黑猩猩的面部特征判別目標物
 ![image](gorilla_heatmap.jpg)
 
 
